@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Meri Kahani",
+        "author": "Asharib Ali",
+        "year": "2025",
+        "genre": "kahani",
+        "read": true
+    },
+    {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "year": "The Alchemist",
+        "genre": "philosophical, adventure, and fantasy",
+        "read": false
+    },
+    {
+        "title": "atomic habits",
+        "author": "james clear",
+        "year": "2018",
+        "genre": "science fiction",
+        "read": true
+    }
+]
